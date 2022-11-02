@@ -1,5 +1,5 @@
 {
-    "name": "phpstandard/library",
+    "name": "phpstandard/autoloader",
     "description": "Skeleton to create a composer library",
     "type": "project",
     "license": "MIT",
